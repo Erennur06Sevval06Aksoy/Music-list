@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\bin\Debug\Music List.exe.config
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\bin\Debug\Music List.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\bin\Debug\Music List.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music_List.Form1.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music_List.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.pdb
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\Music List\Music List\bin\Debug\Music List.exe.config
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.exe
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\Music List\Music List\obj\Debug\Music List.pdb
